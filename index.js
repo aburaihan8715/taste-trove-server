@@ -17,6 +17,7 @@ app.get("/", (req, res) => {
   res.send("Hello World From Home Route!");
 });
 
+// users route
 app.get("/users", (req, res) => {
   res.send(data);
 });
