@@ -2,7 +2,7 @@
   {
     "id": "1",
     "chefName": "Chef Julia Wilson",
-    "image": "http://placehold.it/320x200",
+    "image": "https://i.ibb.co/gSLCyt8/chef-1.jpg",
     "yearsOfExperience": 10,
     "numberOfRecipes": 150,
     "likes": 500,
@@ -67,10 +67,11 @@
       }
     ]
   },
+
   {
     "id": "2",
     "chefName": "Chef Michael Johnson",
-    "image": "http://placehold.it/320x200",
+    "image": "https://i.ibb.co/cDzDf6N/chef-2.jpg",
     "yearsOfExperience": 8,
     "numberOfRecipes": 120,
     "likes": 450,
@@ -148,7 +149,7 @@
   {
     "id": "3",
     "chefName": "Chef Emma Thompson",
-    "image": "http://placehold.it/320x200",
+    "image": "https://i.ibb.co/k5HdL9t/chef-3.jpg",
     "yearsOfExperience": 12,
     "numberOfRecipes": 200,
     "likes": 600,
@@ -216,7 +217,7 @@
   {
     "id": "4",
     "chefName": "Chef Sophia Ramirez",
-    "image": "http://placehold.it/320x200",
+    "image": "https://i.ibb.co/JnfLwgR/chef-4.jpg",
     "yearsOfExperience": 6,
     "numberOfRecipes": 90,
     "likes": 400,
@@ -291,7 +292,7 @@
   {
     "id": "5",
     "chefName": "Chef James Anderson",
-    "image": "http://placehold.it/320x200",
+    "image": "https://i.ibb.co/2WWFdYv/chef-5.jpg",
     "yearsOfExperience": 15,
     "numberOfRecipes": 250,
     "likes": 800,
@@ -368,7 +369,7 @@
   {
     "id": "6",
     "chefName": "Chef Emma Thompson",
-    "image": "http://placehold.it/320x200",
+    "image": "https://i.ibb.co/X70TKKc/chef-6.jpg",
     "yearsOfExperience": 12,
     "numberOfRecipes": 200,
     "likes": 600,
